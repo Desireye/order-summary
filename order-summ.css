@@ -16,8 +16,8 @@ main{
     background: white;
     display: flex;
     flex-direction: column;
-    height: 35rem;
-    width: 22.5rem;
+    height: 36rem;
+    width: 24rem;
     border-radius: 1rem;
     box-shadow: -1px 2px 39px -25px rgb(75, 68, 133);
 }
@@ -31,21 +31,21 @@ main{
     text-align: center;
 }
 h1{
-    font-size: 1.4rem;
+    font-size: 2rem;
     font-weight: 900;
     color: hsl(223, 47%, 23%);
 }
 p{
     margin-top: 1rem;
-    font-size: 0.9rem;
+    font-size: 1rem;
     line-height: 1.3rem;
     color: hsl(224, 23%, 55%);
 }
 .annual-plan{
     background: hsl(225, 100%, 98%);
     border-radius: 0.5rem;
-    padding: 7%;
-    width: 18.5rem;
+    padding: 6%;
+    width: 19rem;
     margin-top: 1rem;
     display: flex;
 }
@@ -59,17 +59,19 @@ p{
 }
 .annual-plan .p-1{
     font-weight: 900;
+    font-size: 1.1rem;
     color: hsl(223, 47%, 23%);
 }
 .annual-plan .p-2{
     margin-top: -0.01rem;
+    font-size: 1.1rem;
 }
 .annual-plan a{
-    margin-left: 4.7rem;
-    margin-top: 2rem;
+    margin-left: 3.7rem;
+    margin-top: 1.8rem;
     color: hsl(245, 75%, 52%);
     font-weight: 900;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
 }
 .annual-plan a:hover{
     color: hsl(254, 100%, 70%);
@@ -81,7 +83,7 @@ p{
 }
 .button{
     margin-top: 1.5rem;
-    padding: 4%;
+    padding: 5%;
     width: 18.5rem;
     border-radius: 0.5rem;
     border: none;
